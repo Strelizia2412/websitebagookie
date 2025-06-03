@@ -1,2 +1,0 @@
-# websitebagookie
-tidak ada

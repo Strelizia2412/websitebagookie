@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cookies Ampas Tebu</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #388e3c;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background: #2e7d32;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .container {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+    h2 {
+      color: #2e7d32;
+    }
+    footer {
+      background: #388e3c;
+      color: white;
+      text-align: center;
+      padding: 15px 0;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Pembuatan Cookies Ampas Tebu</h1>
+    <p>Inovasi pangan ramah lingkungan dan bernutrisi</p>
+  </header>
+  <nav>
+    <a href="#latar">Latar Belakang</a>
+    <a href="#bahan">Bahan</a>
+    <a href="#proses">Proses Produksi</a>
+    <a href="#manfaat">Manfaat</a>
+  </nav>
+  <div class="container">
+    <section id="latar">
+      <h2>Latar Belakang</h2>
+      <p>
+        Ampas tebu merupakan limbah agroindustri yang melimpah namun kurang dimanfaatkan. Dengan pengolahan yang tepat, ampas tebu dapat diubah menjadi bahan baku makanan yang bernilai, seperti cookies tinggi serat yang ramah lingkungan. Produk ini bertujuan mengurangi limbah, mendukung keberlanjutan, dan menyediakan alternatif kudapan sehat.
+      </p>
+    </section>
+
+    <section id="bahan">
+      <h2>Bahan Baku</h2>
+      <ul>
+        <li>Ampas tebu kering dan digiling halus</li>
+        <li>Tepung terigu</li>
+        <li>Gula kelapa</li>
+        <li>Margarin</li>
+        <li>Telur</li>
+        <li>Selai kacang hijau (untuk isian)</li>
+      </ul>
+    </section>
+
+    <section id="proses">
+      <h2>Proses Produksi</h2>
+      <ol>
+        <li>Pemilahan dan pengeringan ampas tebu</li>
+        <li>Penggilingan menjadi bubuk kasar (bagasse flour)</li>
+        <li>Pencampuran bahan kering: tepung, ampas tebu, gula</li>
+        <li>Penambahan bahan basah: margarin dan telur</li>
+        <li>Pembentukan adonan dan pengisian selai kacang hijau</li>
+        <li>Pemanggangan pada suhu 160°C selama 20-25 menit</li>
+        <li>Pendinginan dan pengemasan</li>
+      </ol>
+    </section>
+
+    <section id="manfaat">
+      <h2>Manfaat Produk</h2>
+      <ul>
+        <li>Mengurangi limbah ampas tebu dari industri gula</li>
+        <li>Meningkatkan nilai ekonomi bahan sisa</li>
+        <li>Cookies tinggi serat dan lebih ramah lingkungan</li>
+        <li>Memberikan alternatif kudapan sehat bagi masyarakat</li>
+      </ul>
+    </section>
+  </div>
+  <footer>
+    <p>&copy; 2025 Inovasi Agroindustri Berkelanjutan</p>
+  </footer>
+</body>
+</html>
